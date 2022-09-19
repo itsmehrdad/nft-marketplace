@@ -1,0 +1,27 @@
+.img{
+      width: 18rem;
+      height: 22rem;
+}
+.card-container{
+     width: 20rem;
+     height: 34rem;
+    
+}
+.fix-text{
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+}
+
+.card-btn{
+      background-color:black;
+      color: white;
+      border: 1px solid black;
+     
+      border-radius: 5px;
+}
+.card-btn:hover{
+      background-color: transparent;
+      border: 1px solid black ;
+      color: black;
+}

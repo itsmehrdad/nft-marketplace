@@ -1,0 +1,16 @@
+.img{
+      width: 18rem;
+      height: 22rem;
+}
+.card-btn{
+      background-color:black;
+      color: white;
+      border: 1px solid black;
+     
+      border-radius: 5px;
+}
+.card-btn:hover{
+      background-color: white;
+      border: 1px solid black ;
+      color: black;
+}
